@@ -13,6 +13,7 @@ const App = () => {
     "Kolkata",
     "Ahmedabad",
   ];
+
   return (
     <div>
       <p>Search cities of India :</p>

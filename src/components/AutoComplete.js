@@ -12,7 +12,7 @@ function AutoComplete({ suggestion }) {
   return (
     <div>
       <input
-        type="text"
+        type="search"
         value={input}
         placeholder=""
         onChange={(e) => setInput(e.target.value)}
